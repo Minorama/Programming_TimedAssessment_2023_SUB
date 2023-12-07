@@ -1,6 +1,6 @@
-import exceptions.InsufficientFundsException; // Imports the InsufficientFundsException class to be used in the withdraw method 
-import java.text.DecimalFormat; // Imports the DecimalFormat class to format the currentBalance
-import java.text.NumberFormat; // Imports the NumberFormat class to format the accountID
+import exceptions.InsufficientFundsException; // Imports the InsufficientFundsException class to be used in the withdraw method; to handle the exception if an account does not have enough funds
+import java.text.DecimalFormat; // Imports the DecimalFormat class to format the currentBalance in the getFormattedCurrentBalance() and getFormattedAccountNumber() methods
+import java.text.NumberFormat; // Imports the NumberFormat class to format the accountID in the getFormattedCurrentBalance() and getFormattedAccountNumber() methods
 
 public class BankAccount {
 

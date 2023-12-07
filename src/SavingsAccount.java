@@ -1,5 +1,5 @@
-import java.text.DecimalFormat; // Import the DecimalFormat class to format the estimated returns
-import java.text.NumberFormat; // Import the NumberFormat class to format the interest rate
+import java.text.NumberFormat; // Import the NumberFormat class to format the interest rate in the getFormattedInterestRate() method; and support the getEstimatedAnnualReturn() and getEstimatedMonthlyReturn() methods
+import java.text.DecimalFormat; // Import the DecimalFormat class to format the estimated returns in the getEstimatedAnnualReturn() and getEstimatedMonthlyReturn() methods
 
 public class SavingsAccount extends BankAccount {
 

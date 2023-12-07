@@ -1,6 +1,6 @@
 BankAccountJUnitTests
 =============================
-Run: 6 Dec 2023 15:54:43 GMT
+Run: 7 Dec 2023 02:57:55 GMT
 
 Tests Summary
 =============================
@@ -16,15 +16,15 @@ Marks Gained: 8
 
 Test Results
 =============================
-Test 1: testBankAccountWithdrawals(): Pass - 1701878083359
+Test 1: testBankAccountWithdrawals(): Pass - 1701917875083
 --
-Test 2: testBankAccountGetters(): Pass - 1701878083351
+Test 2: testBankAccountGetters(): Pass - 1701917875082
 --
-Test 3: testBankAccountDeposits(): Pass - 1701878083361
+Test 3: testBankAccountDeposits(): Pass - 1701917875084
 --
-Test 4: testBankAccountFormattedAccountNumbers(): Pass - 1701878083365
+Test 4: testBankAccountFormattedAccountNumbers(): Pass - 1701917875086
 --
-Test 5: testBankAccountToString(): Pass - 1701878083363
+Test 5: testBankAccountToString(): Pass - 1701917875085
 
 
 Test Marks
