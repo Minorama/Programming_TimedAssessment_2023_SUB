@@ -1,6 +1,6 @@
 BankJUnitTests
 =============================
-Run: 7 Dec 2023 02:57:55 GMT
+Run: 7 Dec 2023 22:52:11 GMT
 
 Tests Summary
 =============================
@@ -16,23 +16,23 @@ Marks Gained: 24
 
 Test Results
 =============================
-Test 1: testGetAccount(): Pass - 1701917875065
+Test 1: testGetAccount(): Pass - 1701989531009
 --
-Test 2: testSaveAccounts(): Pass - 1701917875061
+Test 2: testSaveAccounts(): Pass - 1701989531007
 --
-Test 3: testCloseAccount(): Pass - 1701917875058
+Test 3: testCloseAccount(): Pass - 1701989531005
 --
-Test 4: testTransferFunds(): Pass - 1701917875067
+Test 4: testTransferFunds(): Pass - 1701989531011
 --
-Test 5: testOpenSavingsAccount(): Pass - 1701917875071
+Test 5: testOpenSavingsAccount(): Pass - 1701989531016
 --
-Test 6: testOpenBankAccount(): Pass - 1701917875070
+Test 6: testOpenBankAccount(): Pass - 1701989531015
 --
-Test 7: testGetNextAccountID(): Pass - 1701917875044
+Test 7: testGetNextAccountID(): Pass - 1701989531000
 --
-Test 8: testGetAccountIndex(): Pass - 1701917875049
+Test 8: testGetAccountIndex(): Pass - 1701989531001
 --
-Test 9: testBankGetAccounts(): Pass - 1701917875068
+Test 9: testBankGetAccounts(): Pass - 1701989531013
 
 
 Test Marks
