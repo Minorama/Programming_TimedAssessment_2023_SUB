@@ -4,5 +4,5 @@ This was a final project for a Java programming unit in university, we had 3 day
 # Unit Oddities
 The project required liberal use of comments hence why everything is explained in excruciating detail
 
-#Codebase Details
+# Codebase Details
 All of the code in src is mine; the tests where provided for us
